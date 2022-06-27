@@ -1,6 +1,6 @@
 {
   "desc":"config choices",
-  "version": "v1.0.1",
+  "version": "1.0.2",
   "choices": [
     {
       "value": "project-template-config",
